@@ -7,7 +7,7 @@ import java.util.List;
 
 @Data
 
-public class calendar {
+public class Calendar {
     private int id;
     private Date day;
     private List<Insight> insightList;
